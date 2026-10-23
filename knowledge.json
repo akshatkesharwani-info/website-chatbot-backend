@@ -1,0 +1,21 @@
+{
+ "site_name": "Sunrise Bakery",
+ "chunks": [
+  {
+   "page": "Home",
+   "text": "Sunrise Bakery is a family bakery in Green Valley town. We bake fresh bread, cakes, cookies and snacks every morning. Everything is made without preservatives. We have been serving the town since 2012."
+  },
+  {
+   "page": "Menu",
+   "text": "Our menu: Whole wheat bread 45 rupees. Chocolate cake (1 kg) 650 rupees. Vanilla cake (1 kg) 550 rupees. Butter cookies (250 g) 120 rupees. Veg puff 25 rupees. Cheese sandwich 70 rupees. Eggless cakes are available on request at the same price. Custom cakes need 2 days notice."
+  },
+  {
+   "page": "About",
+   "text": "Sunrise Bakery was started by the Gupta family. We use local flour and fresh milk. We offer home delivery within 5 km for orders above 300 rupees. Delivery is free above 500 rupees, otherwise the delivery charge is 40 rupees."
+  },
+  {
+   "page": "Contact",
+   "text": "Visit us at 12 Market Road, Green Valley. Open every day from 7:00 AM to 9:00 PM. Closed on the first Monday of every month. Call us on +91 90000 00000 or email hello@sunrisebakery-demo.example. Bulk and party orders need 3 days notice."
+  }
+ ]
+}
